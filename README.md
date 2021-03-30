@@ -10,10 +10,11 @@ Rules:
  * a life cell with more than 3 life neighbors dies
  * a dead cell with 3 life neighbors becomes alive
 
-## Run
+```powershell
 make
+
 ./GameOfLife
+'''
 
-
-More information:
+## More information:
 https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life
