@@ -2,7 +2,7 @@
 
 a C++ Game of Life simulation as conceived by John Conway
 
-![Uploading gameoflife.gif…]()
+![gameoflife](https://user-images.githubusercontent.com/33256845/113056769-86fc0d80-91ac-11eb-88fd-03f48fb3dd3b.gif)
 
 Rules:
  * a life cell with less than 2 life neighbors dies
