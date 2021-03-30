@@ -12,7 +12,6 @@ Rules:
 
 ```powershell
 make
-
 ./GameOfLife
 '''
 
