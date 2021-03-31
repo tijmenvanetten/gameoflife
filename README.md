@@ -10,9 +10,12 @@ Rules:
  * a life cell with more than 3 life neighbors dies
  * a dead cell with 3 life neighbors becomes alive
 
-```powershell
-make
-./GameOfLife
+
+### Run
+```
+git clone https://github.com/tijmenvanetten/gameoflife.git
+cd gameoflife
+make;./GameOfLife
 ```
 
 ## More information:
