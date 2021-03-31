@@ -4,7 +4,7 @@
 // Compiler: Apple clang version 11.0.0 (clang-1100.0.33.12)
 // Target: x86_64-apple-darwin19.6.0
 #include "classes.h"
-
+#include <cmath>
 #include <fstream>
 #include <iostream>
 #include <unistd.h>
